@@ -1,0 +1,2 @@
+# kanjii
+yama kanji
